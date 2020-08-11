@@ -1,2 +1,1 @@
-# 1
-1
+[![Run on Repl.it](https://repl.it/badge/github/ghost13r/1)](https://repl.it/github/ghost13r/1)
